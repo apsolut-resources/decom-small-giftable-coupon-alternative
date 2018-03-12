@@ -1,4 +1,4 @@
-#Decom Small Giftable Coupon Alternative
+# Decom Small Giftable Coupon Alternative
 - BETA
 
 Addon for Giftable for WooCommerce: 
